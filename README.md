@@ -1,4 +1,5 @@
-samplephp
+Better ReadME
 =========
 
-A do nothing PHP site to show that you properly configured a PHP site
+A better ReadME. \
+Aman Riat (300056269)
